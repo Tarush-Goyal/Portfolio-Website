@@ -39,9 +39,6 @@ function ContactWithoutCaptcha() {
     const options = { publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY };
 
     try {
-      console.log("service id: "+serviceID);
-      console.log("template id: "+templateID);
-      console.log("options: "+options);
       const res = await emailjs.send(serviceID, templateID, input, options);
 
       if (res.status === 200) {
