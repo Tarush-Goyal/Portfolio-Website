@@ -9,10 +9,7 @@ import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
 import './hero.css';
-import { TypeAnimation } from 'react-type-animation';
 import {useState} from 'react';
-import TypingText from '/Users/tarushgoyal/tarush/macbook data/developer-portfolio-main/app/components/typer/typing-animation';
-// import TypingAnimation from '/Users/tarushgoyal/tarush/macbook data/developer-portfolio-main/app/components/typer/typing-animation'
 
 function HeroSection() {
   const [textColor, setTextColor] = useState('red');
