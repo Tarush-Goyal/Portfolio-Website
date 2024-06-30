@@ -1,10 +1,10 @@
 export const personalData = {
   name: "TARUSH GOYAL",
   profile: '/profile.jpg',
-  designation: "Software Developer",
-  description: "My name is Tarush Goyal. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  designation: "Software Engineer",
+  description: "I am a hard-working and diligent Software Engineer who loves to develop solutions to real-world problems. I currently work at CommerceIQ where I design, develop, and maintain full-stack applications that power our company's products. Some of the technologies I specialize in are Java, Python, React.js, SQL and AWS. I am passionate about writing clean, efficient, and maintainable code. I am always eager to learn and adapt to new technologies. Looking forward to discussing how my skills and experience can contribute to your organization!",
   email: 'tarushg2000@gmail.com',
-  phone: '+918750011038',
+  phone: '+91 8750011038',
   address: 'HSR Layout, Bengaluru, Karnataka, India - 560102',
   github: 'https://github.com/Tarush-Goyal',
   linkedIn: 'https://www.linkedin.com/in/tarush-goyal-0282411a9/',

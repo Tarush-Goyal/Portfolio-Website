@@ -55,7 +55,7 @@ function ContactWithoutCaptcha() {
   };
 
   return (
-    <div className="">
+    <div id="contact">
       <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
         Contact Details
       </p>
