@@ -64,7 +64,7 @@ function Education() {
                           <BsPersonWorkspace size={36} />
                         </div>
                         <div>
-                          <p className="text-base sm:text-xl mb-2 font-medium uppercase">
+                          <p className="text-base sm:text-xl mb-2 font-medium text-pink-500">
                             {education.title}
                           </p>
                           <p className="text-sm sm:text-base">{education.institution}</p>
