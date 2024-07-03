@@ -20,7 +20,7 @@ export const projectsData = [
         location: 'Delhi',
         period: '06/2021 - 09/2021',
         description: 'Responsibilities included developing MongoDB aggregation pipelines to combine and transform data from multiple collections, creating RESTful APIs to support dynamic front-end applications and third-party integrations, and building functionality to bulk insert CSV data into database.',
-        tools: ['MongoDB', 'Node.js', "Express.js", "OAuth"],
+        tools: ['MongoDB', 'Node.js', 'Express.js', 'OAuth'],
         role: 'Full Stack Developer'
     },
     {
@@ -29,7 +29,7 @@ export const projectsData = [
         org: 'Synk Consulting Group',
         location: 'Delhi',
         period: '08/2020 - 10/2020',
-        description: 'Responsibilities included engineering an autonomous web crawler to extract and store data from partner e-commerce platforms into the database and creating a user referral system',
+        description: 'Responsibilities included engineering an autonomous web crawler to extract and store data from partner e-commerce platforms into the database and creating a user referral system.',
         tools: ['Java', 'Spring Boot', 'React.js', 'MySQL']
     },
     {
@@ -38,8 +38,8 @@ export const projectsData = [
         org: 'DIGITebl',
         location: 'Delhi',
         period: '06/2020 - 08/2020',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"]
+        description: "Responsibilities included crafting RESTful APIs to provide insightful data to the user in our QR code restaurant ordering system and building dynamic UI experience as per user type and role.",
+        tools: ['Java', 'Spring Boot', 'React.js', 'MongoDB', 'REST']
     }
 ];
 
